@@ -55,6 +55,7 @@
 | [0704-binary-search](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0035-search-insert-position) |
 | [0867-transpose-matrix](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0867-transpose-matrix) |
+| [0566-reshape-the-matrix](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0566-reshape-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,8 +65,10 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0867-transpose-matrix) |
+| [0566-reshape-the-matrix](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0867-transpose-matrix) |
+| [0566-reshape-the-matrix](https://github.com/160926750039-Huzaif/coding-solutions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
